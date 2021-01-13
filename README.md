@@ -9,7 +9,7 @@ Covid moonshot dataset, for more infos see:
 
 ## ML affinity prediction models:
 
-* [GraphDTA](https://github.com/thinng/GraphDTA), see also the (paper)[https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa921/5942970]
+* [GraphDTA](https://github.com/thinng/GraphDTA), see also the [paper](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa921/5942970)
 
 * [Onionnet](https://github.com/zhenglz/onionnet/), see also the [paper](https://pubs.acs.org/doi/pdf/10.1021/acsomega.9b01997)  
 
