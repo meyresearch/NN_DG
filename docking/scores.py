@@ -1,0 +1,33 @@
+from cresset import flare
+
+import csv
+
+
+
+project = flare.main_window().project
+
+with open('/Users/toni_brain/Desktop/scores.csv', 'w') as score_file:
+
+    wr = csv.writer(score_file, dialect='excel')
+
+    title_row = ['lig_name', 'LF Rank Score', 'LF dG', 'LF VSscore']
+
+    wr.writerow(title_row)
+
+    for l in project.ligands:
+
+        if l.title.endswith('_D'):
+
+            name = l.title.strip('_D')
+
+            row = []
+
+            row.append(name)
+
+            row.append(l.properties['LF Rank Score'])
+
+            row.append(l.properties['LF dG'])
+
+            row.append(l.properties['LF VSscore'])
+
+            wr.writerow(row)
