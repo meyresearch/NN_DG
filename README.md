@@ -15,6 +15,8 @@ Covid moonshot dataset, for more infos see:
 
 * [KDEEP](playmolecule.org), see (paper)[https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00650]
 
+* [GNN_DTI](https://github.com/jaechanglim/GNN_DTI)
+
 ## Docking prediction models:
 * Cresset's Flare
 * OE Spruce (maybe)
