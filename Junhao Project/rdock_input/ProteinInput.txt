@@ -1,0 +1,2 @@
+https://zenodo.org/record/3730474/files/Mpro-x0195_0_apo-desolv.pdb
+https://zenodo.org/record/3730474/files/hits.sdf
