@@ -1,3 +1,4 @@
+SMILES
 N#Cc1cccc(CN2C(=O)C(=O)c3cccc(Br)c32)c1
 CC(C)C[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@@H](CC1CCNC1=O)C(O)S(=O)(=O)O
 O=C(Oc1cncc(Cl)c1)c1cccc2[nH]ccc12
